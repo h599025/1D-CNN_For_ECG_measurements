@@ -1,0 +1,21 @@
+# Ignore all dataset files
+data/
+*.csv
+*.zip
+*.tar.gz
+*.npz
+*.hdf5
+*.hea
+*.dat
+*.html
+*.txt
+*.py
+RECORDS
+
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
