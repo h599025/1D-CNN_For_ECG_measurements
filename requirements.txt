@@ -2,6 +2,7 @@ numpy
 pandas
 matplotlib
 scikit-learn
+scikit-multilearn
 tensorflow
 wfdb
 jupyter
