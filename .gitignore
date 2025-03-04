@@ -16,6 +16,7 @@ RECORDS
 # Ignore system files
 .DS_Store
 Thumbs.db
+config.py
 
 # Ignore Jupyter notebook checkpoints
 .ipynb_checkpoints/
