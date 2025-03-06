@@ -11,6 +11,7 @@ data/
 *.txt
 *.py
 RECORDS
+*.pyc
 
 
 # Ignore system files
