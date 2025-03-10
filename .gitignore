@@ -12,6 +12,7 @@ data/
 *.py
 RECORDS
 *.pyc
+*.keras
 
 
 # Ignore system files
