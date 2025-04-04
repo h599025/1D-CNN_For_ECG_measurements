@@ -6,3 +6,4 @@ scikit-multilearn
 tensorflow
 wfdb
 jupyter
+git+https://github.com/trent-b/iterative-stratification.git
